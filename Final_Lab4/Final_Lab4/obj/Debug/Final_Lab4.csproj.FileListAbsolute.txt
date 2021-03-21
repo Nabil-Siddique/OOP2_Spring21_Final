@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\Final_Lab4\Final_Lab4\obj\Debug\Final_Lab4.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Final_Lab4\Final_Lab4\obj\Debug\Final_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Final_Lab4\Final_Lab4\bin\Debug\Final_Lab4.exe.config
+C:\Users\USER\source\repos\Final_Lab4\Final_Lab4\bin\Debug\Final_Lab4.exe
+C:\Users\USER\source\repos\Final_Lab4\Final_Lab4\bin\Debug\Final_Lab4.pdb
+C:\Users\USER\source\repos\Final_Lab4\Final_Lab4\obj\Debug\Final_Lab4.exe
+C:\Users\USER\source\repos\Final_Lab4\Final_Lab4\obj\Debug\Final_Lab4.pdb
