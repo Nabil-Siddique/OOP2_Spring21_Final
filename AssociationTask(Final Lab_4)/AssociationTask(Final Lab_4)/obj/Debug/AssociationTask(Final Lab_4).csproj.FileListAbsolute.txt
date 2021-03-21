@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\AssociationTask(Final Lab_4)\AssociationTask(Final Lab_4)\bin\Debug\AssociationTask(Final Lab_4).exe.config
+C:\Users\USER\source\repos\AssociationTask(Final Lab_4)\AssociationTask(Final Lab_4)\bin\Debug\AssociationTask(Final Lab_4).exe
+C:\Users\USER\source\repos\AssociationTask(Final Lab_4)\AssociationTask(Final Lab_4)\bin\Debug\AssociationTask(Final Lab_4).pdb
+C:\Users\USER\source\repos\AssociationTask(Final Lab_4)\AssociationTask(Final Lab_4)\obj\Debug\AssociationTask(Final Lab_4).csprojAssemblyReference.cache
+C:\Users\USER\source\repos\AssociationTask(Final Lab_4)\AssociationTask(Final Lab_4)\obj\Debug\AssociationTask(Final Lab_4).csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\AssociationTask(Final Lab_4)\AssociationTask(Final Lab_4)\obj\Debug\AssociationTask(Final Lab_4).exe
+C:\Users\USER\source\repos\AssociationTask(Final Lab_4)\AssociationTask(Final Lab_4)\obj\Debug\AssociationTask(Final Lab_4).pdb
